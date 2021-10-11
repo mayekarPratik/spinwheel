@@ -22,6 +22,8 @@ body {
   position: relative;
   overflow: hidden;
   transition: 6s;
+  transition-timing-function: ease-in-out;
+  transition-duration: 18s;
 }
 
 .container div {
@@ -59,7 +61,7 @@ body {
   transform: rotate(135deg);
 }
 .container .five {
-  background-color: rgb(252, 252, 177);
+  background-color: rgb(168, 168, 67);
   transform: rotate(180deg);
 }
 .container .six {
