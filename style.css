@@ -21,9 +21,8 @@ body {
   border: 15px solid #dde;
   position: relative;
   overflow: hidden;
-  /* transition: 6s; */
   transition-timing-function: ease-in-out;
-  transition-duration: 20s;
+  transition-duration: 15s;
 }
 
 .container div {
